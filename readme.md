@@ -1,3 +1,3 @@
 Portfolio gallery: Node.js + Vanilla JS
 
-Link: karolinamua.co.uk
+Link: www.karolinamua.co.uk
